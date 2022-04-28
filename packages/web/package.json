@@ -36,7 +36,7 @@
     "@sentry/nextjs": "6.19.7",
     "dayjs": "1.11.1",
     "framer-motion": "6.3.3",
-    "graphql": "15.8.0",
+    "graphql": "16.4.0",
     "next": "12.1.5",
     "next-http-proxy-middleware": "1.2.4",
     "react": "^18.0.0",
